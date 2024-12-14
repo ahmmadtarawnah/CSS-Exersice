@@ -1,0 +1,16 @@
+table{
+    background-color: rgb(227, 224, 237);
+}
+
+ td{
+ padding: 7px;
+ margin: 7px;
+ display: inline-block;
+ width: 13px;
+}
+.squere{
+    border: 0 solid;
+   color: blue;
+    background-color: rgb(186, 180, 184);
+    font-weight: bold;
+    box-shadow: 2px 2px 1px rgb(176, 172, 172) ;}

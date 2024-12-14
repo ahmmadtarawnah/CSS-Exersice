@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(238, 239, 192);
+}
+.left{
+background-color: rgb(214, 214, 214);
+display: inline-block ;
+overflow: hidden ;
+width : 170px;
+height: 70px;
+}
+.middle{
+    background-color: rgb(214, 214, 214);
+    display: inline-block ;
+    margin-left: 20px;
+    overflow: hidden ;
+width : 170px;
+height: 70px;
+}
+.right{
+    background-color: rgb(214, 214, 214);
+    display: inline-block ;
+    margin-left: 20px;
+    overflow: hidden ;
+    width : 170px;
+height: 70px;
+}
+.boldline{
+            height: 4px; 
+            background-color: black; 
+                   
+}
+.center{
+ 
+    overflow-y: scroll;
+    height: 50px;
+
+
+}
